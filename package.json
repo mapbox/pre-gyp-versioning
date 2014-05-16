@@ -1,7 +1,7 @@
 {
   "name": "pre-gyp-versioning",
   "description": "Versioning logic for node-pre-gyp packaged native modules",
-  "version" : "0.1.0",
+  "version" : "0.6.0",
   "keywords": [
     "native",
     "addon",
